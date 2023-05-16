@@ -1,4 +1,4 @@
-# GLAB-370.2.4 The Function Quest: Python Edition
+# GLAB-370.2.4 The Function Quest
 
 ## Introduction
 Welcome to GLAB-370.2.4! Get ready to embark on an exciting quest into the realm of functions in Python. In this lab, you'll explore the power of functions and learn how to wield them to conquer coding challenges. Brace yourself for The Function Quest!
@@ -65,4 +65,4 @@ Feel free to embrace these ideas or create your own thrilling function quests. U
 Once you've conquered coding challenges with your function powers, share your triumphs with others. Showcase your code snippets to friends, colleagues, or even on coding platforms. Sharing not only spreads knowledge but also inspires fellow adventurers to embark on their own Function Quest.
 
 ### Conclusion
-Congratulations on completing The Function Quest: Python Edition! You have mastered the art of functions and harnessed their power to conquer coding challenges. Take these newfound function powers and continue your journey into the vast realms of Python programming. The quest for function mastery never ends—keep exploring, creating, and conquering with your function powers!
+Congratulations on completing **The Function Quest!** You have mastered the art of functions and harnessed their power to conquer coding challenges. Take these newfound function powers and continue your journey into the vast realms of Python programming. The quest for function mastery never ends—keep exploring, creating, and conquering with your function powers!
