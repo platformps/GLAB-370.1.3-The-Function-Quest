@@ -62,7 +62,7 @@ Now it's time for you to conquer coding challenges using the mighty power of fun
 Feel free to embrace these ideas or create your own thrilling function quests. Unleash your function powers, experiment, and conquer coding challenges!
 
 ### Step 4: Share Your Function Quest
-Once you've conquered coding challenges with your function powers, share your triumphs with others. Showcase your code snippets to friends, colleagues, or even on coding platforms. Sharing not only spreads knowledge but also inspires fellow adventurers to embark on their own Function Quest.
+Once you've conquered coding challenges with your function powers, share your triumphs with your instructor.
 
 ### Conclusion
 Congratulations on completing **The Function Quest!** You have mastered the art of functions and harnessed their power to conquer coding challenges. Take these newfound function powers and continue your journey into the vast realms of Python programming. The quest for function mastery never ends—keep exploring, creating, and conquering with your function powers!
